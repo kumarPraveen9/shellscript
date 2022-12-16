@@ -1,3 +1,5 @@
+#check if the two numbers are Palindromes
+
 read -p "enter a number : " num
 
 # Storing the remainder
