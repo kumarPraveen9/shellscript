@@ -1,3 +1,4 @@
+#check if the number is a Prime then show that its palindrome is also prime
 read -p "enter a number : " num
 
 # Storing the remainder
