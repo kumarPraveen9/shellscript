@@ -1,3 +1,4 @@
+#Enter 3 Numbers do following arithmetic operation and find the one that is maximum and minimum
 read -p "enter 1st number : " a
 
 read -p "enter 2nd number : " b
