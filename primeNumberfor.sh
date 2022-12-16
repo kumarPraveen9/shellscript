@@ -1,3 +1,4 @@
+#program that takes a input and determines if the number is a prime.
 read -p "enter the number to know whether prime or not: " num
 
 prime=1
