@@ -1,4 +1,4 @@
-#Read a Number and Display the week day (Sunday, Monday,...)
+#Read  Number and Display the week day (Sunday, Monday,...)
 read -p "enter any number,we will Display week day : " dig
 
 num=$(($dig%7))
