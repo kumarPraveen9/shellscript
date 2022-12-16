@@ -1,6 +1,6 @@
 #Use Random to get Dice Number between 1 to 6
 
-echo "Generating a Random Dice "
+echo "Generatinggg a Random Dice "
 printf "\n"
 min=1
 max=6
