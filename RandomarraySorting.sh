@@ -1,5 +1,6 @@
 
-#RandomarraySoring
+#sort the array and then find the 2nd largest
+#and the 2nd smallest element.
 
 
 
