@@ -1,3 +1,4 @@
+#prints the nth harmonic number.
 read -p "enter a number : " n
 echo ""
 
