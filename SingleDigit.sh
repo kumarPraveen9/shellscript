@@ -1,4 +1,4 @@
-#Read a single digit number and write the number in word
+#a single digit number and write the number in word
 
 read -p "enter any number,we will print a single digit number to word : " dig
 
