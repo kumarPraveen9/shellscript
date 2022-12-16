@@ -1,3 +1,4 @@
+#a program to compute Factors of a number N using prime factorization method.
 read -p "enter a number" n
 
 primef=1
