@@ -1,4 +1,4 @@
-
+#Program to show Sum of three Integer adds to ZERO
 declare -a numbers=()
 numbers[0]=5
 j=1
