@@ -1,3 +1,8 @@
+#Generates 10 Random 3 Digit number.
+#b. Store this random numbers into a array.
+#c. Then find the 2nd largest and the 2nd smallest element without sorting the array.
+
+
 declare -a numbers=()
 
 for i in $( seq 0 9 )
