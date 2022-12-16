@@ -1,3 +1,6 @@
+#a program that reads 5 Random 3 Digit values and then outputs the minimum and the maximum value
+
+
 echo "MIN AND MAX OF 5 RANDOM THREE DIGIT NUMBERS "
 
 
