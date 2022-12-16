@@ -1,4 +1,4 @@
-#Extend the program to take a range of number as input and output the Prime Numbers in that range.
+# the program to take a range of number as input and output the Prime Numbers in that range.
 
 read -p "enter the number1 : " num1
 read -p "enter the number2 : " num2
