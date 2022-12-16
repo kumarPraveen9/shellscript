@@ -1,3 +1,4 @@
+#Read a single digit number and write the number in word using Case
 read -p "enter a number : " num
 printf "\n"
 
