@@ -1,3 +1,4 @@
+#Read a Number 1, 10, 100, 1000, etc and display unit, ten, hundred,...
 read -p "enter a unit number like 1,10,100,1000,10000 etc.. : " num
 printf "\n"
 
