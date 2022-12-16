@@ -1,3 +1,4 @@
+#a program to simulate a coin flip and print out "Heads" or "Tails" accordingly.
 echo "Fliping the Coin**"
 echo""
 coin=$RANDOM
