@@ -1,3 +1,5 @@
+#the Magic Number between 1 to 100
+
 read -p "enter a number between 1 to 100 : " n
 
 
