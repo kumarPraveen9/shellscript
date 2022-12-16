@@ -1,3 +1,5 @@
+#Read a Number and Display the week day (Sunday, Monday,...)
+
 read -p "enter a number : " num
 printf "\n"
 
