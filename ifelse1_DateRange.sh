@@ -1,3 +1,6 @@
+#program that takes day and month from the command line and prints true if
+
+day of month is between March 20 and June 20, false otherwise.
 read -p "Enter the date in the format (Month 00): " date
 
 month=`echo $date | awk '{print $1}'`
